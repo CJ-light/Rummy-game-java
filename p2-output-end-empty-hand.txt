@@ -1,0 +1,128 @@
+initial Player 1: as, 2s, 3c, 4d, 4c, 7h, 7s, tc, kd
+initial Player 2: ac, ah, 2h, 3h, 7c, 8c, 9h, jd, ks
+Player 1
+	Added: 3d
+	Discarded: tc
+	Hand Now: as, 2s, 3c, 3d, 4d, 4c, 7h, 7s, kd
+Player 2
+	Added: qc
+	Discarded: 3h
+	Hand Now: ac, ah, 2h, 7c, 8c, 9h, jd, qc, ks
+Player 1
+	Added: 3h
+	Discarded: as
+	Hand Now: 2s, 3c, 3d, 3h, 4d, 4c, 7h, 7s, kd
+Player 2
+	Added: as
+	Discarded: ac, ah, as
+	Hand Now: 2h, 7c, 8c, 9h, jd, qc, ks
+Player 1
+	Added: td
+	Discarded: 3c, 3d, 3h
+	Hand Now: 2s, 4d, 4c, 7h, 7s, td, kd
+Player 2
+	Added: js
+	Discarded: 2h
+	Hand Now: 7c, 8c, 9h, jd, js, qc, ks
+Player 1
+	Added: 2h
+	Discarded: td
+	Hand Now: 2s, 2h, 4d, 4c, 7h, 7s, kd
+Player 2
+	Added: 5s
+	Discarded: ks
+	Hand Now: 5s, 7c, 8c, 9h, jd, js, qc
+Player 1
+	Added: ks
+	Discarded: ks
+	Hand Now: 2s, 2h, 4d, 4c, 7h, 7s, kd
+Player 2
+	Added: th
+	Discarded: th
+	Hand Now: 5s, 7c, 8c, 9h, jd, js, qc
+Player 1
+	Added: 9c
+	Discarded: kd
+	Hand Now: 2s, 2h, 4d, 4c, 7h, 7s, 9c
+Player 2
+	Added: 5c
+	Discarded: 7c
+	Hand Now: 5s, 5c, 8c, 9h, jd, js, qc
+Player 1
+	Added: 7c
+	Discarded: 9c
+	Hand Now: 2s, 2h, 4d, 4c, 7h, 7s, 7c
+Player 2
+	Added: 9c
+	Discarded: qc
+	Hand Now: 5s, 5c, 8c, 9h, 9c, jd, js
+Player 1
+	Added: qd
+	Discarded: qd
+	Hand Now: 2s, 2h, 4d, 4c, 7h, 7s, 7c
+Player 2
+	Added: ad
+	Discarded: ad
+	Hand Now: 5s, 5c, 8c, 9h, 9c, jd, js
+Player 1
+	Added: kh
+	Discarded: kh
+	Hand Now: 2s, 2h, 4d, 4c, 7h, 7s, 7c
+Player 2
+	Added: 3s
+	Discarded: 3s
+	Hand Now: 5s, 5c, 8c, 9h, 9c, jd, js
+Player 1
+	Added: 5d
+	Discarded: 5d
+	Hand Now: 2s, 2h, 4d, 4c, 7h, 7s, 7c
+Player 2
+	Added: 5d
+	Discarded: 5s, 5c, 5d
+	Hand Now: 8c, 9h, 9c, jd, js
+Player 1
+	Added: 2c
+	Discarded: 4d
+	Hand Now: 2s, 2h, 2c, 4c, 7h, 7s, 7c
+Player 2
+	Added: 8s
+	Discarded: jd
+	Hand Now: 8c, 8s, 9h, 9c, js
+Player 1
+	Added: 4s
+	Discarded: 4c
+	Hand Now: 2s, 2h, 2c, 4s, 7h, 7s, 7c
+Player 2
+	Added: 8h
+	Discarded: js
+	Hand Now: 8c, 8s, 8h, 9h, 9c
+Player 1
+	Added: qs
+	Discarded: qs
+	Hand Now: 2s, 2h, 2c, 4s, 7h, 7s, 7c
+Player 2
+	Added: 6d
+	Discarded: 6d
+	Hand Now: 8c, 8s, 8h, 9h, 9c
+Player 1
+	Added: 2d
+	Discarded: 2s, 2h, 2c, 2d
+	Hand Now: 4s, 7h, 7s, 7c
+Player 2
+	Added: 9s
+	Discarded: 9h, 9c, 9s
+	Hand Now: 8c, 8s, 8h
+Player 1
+	Added: jh
+	Discarded: 7h, 7s, 7c
+	Hand Now: 4s, jh
+Player 2
+	Added: 6s
+	Discarded: 6s
+	Hand Now: 8c, 8s, 8h
+Player 1
+	Added: 8d
+	Discarded: 8d
+	Hand Now: 4s, jh
+Player 2 doesn't have any more cards.
+Player 2 Wins!

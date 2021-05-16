@@ -1,0 +1,172 @@
+initial Player 1: ad, 2c, 2h, 9c, 9s, tc, td, qh, kd
+initial Player 2: ah, ac, 5s, 6c, 7d, 9d, th, ts, jd
+Player 1
+	Added: qd
+	Discarded: 9s
+	Hand Now: ad, 2c, 2h, 9c, tc, td, qh, qd, kd
+Player 2
+	Added: 9s
+	Discarded: ah
+	Hand Now: ac, 5s, 6c, 7d, 9d, 9s, th, ts, jd
+Player 1
+	Added: ah
+	Discarded: 9c
+	Hand Now: ad, ah, 2c, 2h, tc, td, qh, qd, kd
+Player 2
+	Added: 9c
+	Discarded: ac
+	Hand Now: 5s, 6c, 7d, 9d, 9s, 9c, th, ts, jd
+Player 1
+	Added: ac
+	Discarded: ad, ah, ac
+	Hand Now: 2c, 2h, tc, td, qh, qd, kd
+Player 2
+	Added: 4d
+	Discarded: 9d, 9s, 9c
+	Hand Now: 4d, 5s, 6c, 7d, th, ts, jd
+Player 1
+	Added: 8h
+	Discarded: td
+	Hand Now: 2c, 2h, 8h, tc, qh, qd, kd
+Player 2
+	Added: td
+	Discarded: 5s
+	Hand Now: 4d, 6c, 7d, th, ts, td, jd
+Player 1
+	Added: qc
+	Discarded: tc
+	Hand Now: 2c, 2h, 8h, qh, qd, qc, kd
+Player 2
+	Added: tc
+	Discarded: th, ts, td, tc
+	Hand Now: 4d, 6c, 7d, jd
+Player 1
+	Added: 4c
+	Discarded: kd
+	Hand Now: 2c, 2h, 4c, 8h, qh, qd, qc
+Player 2
+	Added: 5c
+	Discarded: 4d
+	Hand Now: 5c, 6c, 7d, jd
+Player 1
+	Added: 4d
+	Discarded: qh, qd, qc
+	Hand Now: 2c, 2h, 4c, 4d, 8h
+Player 2
+	Added: 3h
+	Discarded: 3h
+	Hand Now: 5c, 6c, 7d, jd
+Player 1
+	Added: 7h
+	Discarded: 8h
+	Hand Now: 2c, 2h, 4c, 4d, 7h
+Player 2
+	Added: ks
+	Discarded: ks
+	Hand Now: 5c, 6c, 7d, jd
+Player 1
+	Added: js
+	Discarded: js
+	Hand Now: 2c, 2h, 4c, 4d, 7h
+Player 2
+	Added: jc
+	Discarded: 7d
+	Hand Now: 5c, 6c, jd, jc
+Player 1
+	Added: 7d
+	Discarded: 2c
+	Hand Now: 2h, 4c, 4d, 7h, 7d
+Player 2
+	Added: jh
+	Discarded: jd, jc, jh
+	Hand Now: 5c, 6c
+Player 1
+	Added: 4s
+	Discarded: 2h
+	Hand Now: 4c, 4d, 4s, 7h, 7d
+Player 2
+	Added: 2s
+	Discarded: 2s
+	Hand Now: 5c, 6c
+Player 1
+	Added: 2d
+	Discarded: 2d
+	Hand Now: 4c, 4d, 4s, 7h, 7d
+Player 2
+	Added: 6h
+	Discarded: 5c
+	Hand Now: 6c, 6h
+Player 1
+	Added: 8s
+	Discarded: 8s
+	Hand Now: 4c, 4d, 4s, 7h, 7d
+Player 2
+	Added: 3s
+	Discarded: 3s
+	Hand Now: 6c, 6h
+Player 1
+	Added: 5d
+	Discarded: 5d
+	Hand Now: 4c, 4d, 4s, 7h, 7d
+Player 2
+	Added: 3c
+	Discarded: 3c
+	Hand Now: 6c, 6h
+Player 1
+	Added: 6s
+	Discarded: 6s
+	Hand Now: 4c, 4d, 4s, 7h, 7d
+Player 2
+	Added: 6s
+	Discarded: 6s
+	Hand Now: 6c, 6h
+Player 1
+	Added: 7s
+	Discarded: 7h, 7d, 7s
+	Hand Now: 4c, 4d, 4s
+Player 2
+	Added: 5h
+	Discarded: 5h
+	Hand Now: 6c, 6h
+Player 1
+	Added: qs
+	Discarded: qs
+	Hand Now: 4c, 4d, 4s
+Player 2
+	Added: kh
+	Discarded: kh
+	Hand Now: 6c, 6h
+Player 1
+	Added: 3d
+	Discarded: 3d
+	Hand Now: 4c, 4d, 4s
+Player 2
+	Added: 7c
+	Discarded: 7c
+	Hand Now: 6c, 6h
+Player 1
+	Added: 6d
+	Discarded: 6d
+	Hand Now: 4c, 4d, 4s
+Player 2
+	Added: 4h
+	Discarded: 4h
+	Hand Now: 6c, 6h
+Player 1
+	Added: 4h
+	Discarded: 4h
+	Hand Now: 4c, 4d, 4s
+Player 2
+	Added: as
+	Discarded: as
+	Hand Now: 6c, 6h
+Player 1
+	Added: 8c
+	Discarded: 8c
+	Hand Now: 4c, 4d, 4s
+Player 2
+	Added: 8d
+	Discarded: 8d
+	Hand Now: 6c, 6h
+Points: 22 to 12
+Player 2 Wins!
