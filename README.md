@@ -80,7 +80,7 @@ The Proj2 only runs the option to play with two people (no AI)
 1. https://www.tutorialspoint.com/java-program-to-change-jlabel-text-after-creation
 
 ### Help I've recieved from other people:
-1. Victor: He helped me understand how to select multiple values in the GUI and helped me when I got errors when I was trying to create and use my generic MyStack class. (MyStack generic and Stack is the one using that class in my program).
+1. Victor: He helped me understand how to select multiple values in the GUI and helped me when I got errors when I was trying to create and use my generic MyStack class. (MyStack generic and Stack is the one using that class).
 
 ### Help I've given:
 1. I've just talked to a lot of people, telling them how I interpret the instructions.
